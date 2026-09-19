@@ -1,0 +1,1 @@
+La diferencia entre un proyecto con .git y uno que no lo tiene es que uno es un repositorio. El que no tiene un .git NO es un repositorio.
